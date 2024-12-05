@@ -7,10 +7,10 @@ permalink: /
 
 # **omniscape** & **omniscapeImpact** SyncroSim
 <img align="right" style="padding: 13px" width="180" src="assets/images/logo/omniscape-sticker.png">
-[![GitHub release](https://img.shields.io/github/v/release/ApexRMS/omniscape.svg?style=for-the-badge&color=d68a06)](https://GitHub.com/ApexRMS/omniscape/releases/) <a href="https://github.com/ApexRMS/omniscape"><img align="middle" style="padding: 1px" width="30" src="assets/images/logo/github-trans2.png"></a> omniscape
+[![GitHub release](https://img.shields.io/github/v/release/ApexRMS/omniscape.svg?style=for-the-badge&color=d68a06)](https://GitHub.com/ApexRMS/omniscape-v1/releases/) <a href="https://github.com/ApexRMS/omniscape-v1"><img align="middle" style="padding: 1px" width="30" src="assets/images/logo/github-trans2.png"></a> omniscape
 <br>
 [![GitHub release](https://img.shields.io/github/v/release/ApexRMS/omniscapeImpact.svg?style=for-the-badge&color=d68a06)](https://GitHub.com/ApexRMS/omniscapeImpact/releases/)
-<a href="https://github.com/ApexRMS/omniscape"><img align="middle" style="padding: 1px" width="30" src="assets/images/logo/github-trans2.png"></a> omniscapeImpact
+<a href="https://github.com/ApexRMS/omniscapeImpact-v1"><img align="middle" style="padding: 1px" width="30" src="assets/images/logo/github-trans2.png"></a> omniscapeImpact
 <br>
 
 ## Omnidirectional landscape connectivity based on circuit theory
@@ -29,7 +29,7 @@ The latest version of **omniscape** SyncroSim has two requirements:
 * SyncroSim [version 2.5.12](https://syncrosim.com/download/){:target="_blank"} or higher
 * Julia [version 1.5.4](https://julialang.org/downloads/){:target="_blank"} or higher
 
-Instructions for installing the above requirements are provided on the [Getting Started](https://apexrms.github.io/omniscape/getting_started.html) page.
+Instructions for installing the above requirements are provided on the [Getting Started](https://apexrms.github.io/omniscape-v1/getting_started.html) page.
 
 <br>
 
@@ -44,11 +44,11 @@ For tutorials covering the basics of **omniscape** and **omniscapeImpact** Syncr
 ## Key Links
 
 Browse source code for **omniscape** at
-[http://github.com/ApexRMS/omniscape/](http://github.com/ApexRMS/omniscape/){:target="_blank"}. <br>
+[http://github.com/ApexRMS/omniscape/](http://github.com/ApexRMS/omniscape-v1/){:target="_blank"}. <br>
 Browse source code for **omniscapeImpact** at
-[http://github.com/ApexRMS/omniscapeImpact/](http://github.com/ApexRMS/omniscapeImpact/){:target="_blank"}. <br>
+[http://github.com/ApexRMS/omniscapeImpact/](http://github.com/ApexRMS/omniscapeImpact-v1/){:target="_blank"}. <br>
 Report a bug or contribute an idea at
-[http://github.com/ApexRMS/omniscape/issues](http://github.com/ApexRMS/omniscape/issues){:target="_blank"}. <br>
+[http://github.com/ApexRMS/omniscape/issues](http://github.com/ApexRMS/omniscape-v1/issues){:target="_blank"}. <br>
 Omniscape.jl documentation at [https://docs.circuitscape.org/Omniscape.jl/stable/](https://docs.circuitscape.org/Omniscape.jl/stable/){:target="_blank"}. <br>
 
 <br>
@@ -59,7 +59,7 @@ Carina Rauen Firkowski (Author, maintainer) <a href="https://orcid.org/0000-0003
 <br>
 Bronwyn Rayfield (Author) <a href="https://orcid.org/0000-0003-1768-1300"><img align="middle" style="padding: 0.5px" width="17" src="assets/images/ORCID.png"></a>
 <br>
-Katie Birchard (Author)
+Katie Birchard (Author) <a href="https://orcid.org/0009-0003-7519-4751"><img align="middle" style="padding: 0.5px" width="17" src="assets/images/ORCID.png"></a>
 <br>
 Marie-Josée Fortin (Author) <a href="https://orcid.org/0000-0002-9935-1366"><img align="middle" style="padding: 0.5px" width="17" src="assets/images/ORCID.png"></a>
 <br>
